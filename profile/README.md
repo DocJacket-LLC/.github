@@ -2,7 +2,7 @@
 
 # DocJacket
 
-### Transaction Management Software for Real Estate Coordinators
+### Transaction Management Software for Real Estate Transaction Coordinators
 
 Streamline your real estate transactions with AI-powered document management, automated task tracking, and seamless team collaboration.
 
